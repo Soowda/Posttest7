@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("ter1.jpg");
+}
+
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
